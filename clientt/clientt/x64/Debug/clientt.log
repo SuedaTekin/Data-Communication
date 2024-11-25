@@ -1,0 +1,4 @@
+﻿  clientt.c
+C:\Users\User\source\repos\clientt\clientt\clientt.c(23,17): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\User\source\repos\clientt\clientt\clientt.c(49,28): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  clientt.vcxproj -> C:\Users\User\source\repos\clientt\x64\Debug\clientt.exe
