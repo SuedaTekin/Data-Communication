@@ -1,0 +1,3 @@
+﻿  Clientt.c
+C:\Users\User\source\repos\Clientt\Clientt\Clientt.c(83,36): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Clientt.vcxproj -> C:\Users\User\source\repos\Clientt\x64\Debug\Clientt.exe
