@@ -1,0 +1,5 @@
+﻿  Server.c
+C:\Users\User\source\repos\Server\Server\Server.c(38,28): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Server\Server\Server.c(66,22): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\User\source\repos\Server\Server\Server.c(105,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\User\source\repos\Server\x64\Debug\Server.exe
